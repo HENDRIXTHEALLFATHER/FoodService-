@@ -16,12 +16,12 @@ The platform ensures user-friendly interaction by providing:
 - A loyalty program to enhance the user experience
 
 # Entity-Relationship Diagram
-<img src="./ERD.jpeg">
+<img src="./frontend/ERD.jpeg">
 
 This shows all the entities, attributes and cardinality.
 
 # Full Database Schema
-<img src="./db.jpeg">
+<img src="./frontend/db.jpeg">
 
 This is the full database schema which specifies the datatypes used in the project and the primary keys, foreign keys, and so on. This was written with the Data Modelling Language.
 
@@ -54,15 +54,15 @@ npm start
 The API documentation provides detailed information about the endpoints, request parameters, and responses. It is generated using Swagger, which allows for easy exploration and testing of the API.
 
 ### Overview
-<img src="./Swagger.jpeg" alt="Swagger Overview">
+<img src="./frontend/Swagger.jpeg" alt="Swagger Overview">
 This image shows the overview of the API documentation, including the available endpoints and their descriptions.
 
 ### Endpoint Details
-<img src="./Swagger2.jpeg" alt="Swagger Endpoint Details">
+<img src="./frontend/Swagger2.jpeg" alt="Swagger Endpoint Details">
 This image provides detailed information about a specific endpoint, including the request method, URL, parameters, and example responses.
 
 ### Response Examples
-<img src="./Swagger3.jpeg" alt="Swagger Response Examples">
+<img src="./frontend/Swagger3.jpeg" alt="Swagger Response Examples">
 This image shows example responses for the API endpoints, helping developers understand the expected output for different requests.
 
 ### How to Use Swagger
